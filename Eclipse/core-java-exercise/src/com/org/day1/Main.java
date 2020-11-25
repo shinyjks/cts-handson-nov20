@@ -1,4 +1,4 @@
-package com.org;
+package com.org.day1;
 
 import java.util.ArrayList;
 import java.util.List;
